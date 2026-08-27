@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1920-build-array-from-permutation](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
