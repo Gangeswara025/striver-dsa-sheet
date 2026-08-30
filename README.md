@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1920-build-array-from-permutation) |
@@ -28,8 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
