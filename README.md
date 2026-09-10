@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0977-squares-of-a-sorted-array) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
