@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1768-merge-strings-alternately) |
 ## Matrix
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0189-rotate-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
