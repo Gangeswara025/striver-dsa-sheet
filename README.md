@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
