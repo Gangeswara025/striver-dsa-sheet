@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0977-squares-of-a-sorted-array) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -81,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
