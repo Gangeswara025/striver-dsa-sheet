@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0643-maximum-average-subarray-i) |
 ## Counting Sort
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
