@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1672-richest-customer-wealth) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
