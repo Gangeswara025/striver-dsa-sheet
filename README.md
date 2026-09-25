@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1920-build-array-from-permutation) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting Sort
 |  |
 | ------- |
