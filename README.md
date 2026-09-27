@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0796-rotate-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0643-maximum-average-subarray-i) |
