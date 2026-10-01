@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1920-build-array-from-permutation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting Sort
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
 | ------- |
