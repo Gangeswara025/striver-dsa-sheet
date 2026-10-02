@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
@@ -172,4 +174,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
