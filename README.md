@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1920-build-array-from-permutation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
