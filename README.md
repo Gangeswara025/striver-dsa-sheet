@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1768-merge-strings-alternately) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
@@ -176,13 +178,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
