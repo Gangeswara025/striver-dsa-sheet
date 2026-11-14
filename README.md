@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0268-missing-number) |
+| [1518-water-bottles](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/2235-add-two-integers) |
 ## String Matching
 |  |
