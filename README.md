@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1748-sum-of-unique-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1757-recyclable-and-low-fat-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gangeswara025/striver-dsa-sheet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
